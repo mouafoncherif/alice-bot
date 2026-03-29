@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 # 🔑 TON TOKEN (sera pris des variables d'environnement)
 import os
-TOKEN = os.getenv("8630111300:AAH5WUZMNncb7I3p2LSpXpYhT6imHNQ-v98")
+TOKEN = os.getenv("BOT_TOKEN")
 
 # ❤️ CHAT ID DE ALICE
 ALICE_CHAT_ID = 5732902032
