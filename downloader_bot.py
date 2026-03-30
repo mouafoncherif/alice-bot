@@ -16,7 +16,7 @@ from telegram.ext import (
 )
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-TOKEN = "VOTRE_TOKEN_ICI"  # Remplacer par votre token BotFather
+TOKEN = "8669159047:AAG9l6UJJpb2AhxMalify6mx_Sj_F2mcBL8"  # Remplacer par votre token BotFather
 DOWNLOAD_DIR = "./downloads"
 MAX_FILE_SIZE_MB = 50  # Limite Telegram pour les bots (50 MB)
 
