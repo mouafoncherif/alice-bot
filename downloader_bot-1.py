@@ -1,4 +1,4 @@
-"""
+de"""
 🎬 DownloaderBot Telegram — Téléchargement vidéo/audio multi-plateformes
 Dépendances : pip install python-telegram-bot==21.3 yt-dlp
 Système      : sudo apt install ffmpeg -y
